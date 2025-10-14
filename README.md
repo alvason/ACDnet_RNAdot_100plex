@@ -5,7 +5,6 @@ The quantitative analysis RNA-seq fluorescent gene-expression increasing depends
 This repository contains code for implementing the ACDnet workflow initially described in the paper: 
 
 
-```
 <https://www.biorxiv.org/content/2025 (ready online by the end of Oct. 2025)>
 ```
 Multiomic Spatial Imaging Assay (MSIA) – An In Situ Detection Method for mRNAs, Proteins and Protein-Protein Interactions using Manual And Semi-Automated Workflows 

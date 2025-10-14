@@ -15,7 +15,7 @@ Wang, Maithreyan Srinivasan, (2025)
 ```
 ## Overview
 ### RNA Signal Prediction and Decoding Method
-![](https://github.com/alvason/ACDnet_RNAdot_100plex/blob/master/figure/AlvaHmm_demo_edge_detection_selected_seeding_selected_seed_window0.jpg)
+![](https://github.com/alvason/ACDnet_RNAdot_100plex/blob/master/figure/ACDnet_36plex_demo.png)
 ![](https://github.com/alvason/ACDnet_RNAdot_100plex/blob/master/figure/AlvaHmm_demo_edge_detection_selected_seeding_connected_way_window3.png)
 
 ## Installation

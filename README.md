@@ -15,7 +15,7 @@ Wang, Maithreyan Srinivasan, (2025)
 ```
 ## Overview
 ### RNA Signal Prediction and Decoding Method
-![](https://github.com/alvason/ACDnet_RNAdot_100plex/tree/main/figure/ACDnet_36plex_demo.png)
+![](https://github.com/alvason/ACDnet_RNAdot_100plex/blob/main/figure/ACDnet_36plex_demo.png)
 
 ## Installation
 ### [pip install alva-machinery](https://pypi.org/project/alva-machinery/)
